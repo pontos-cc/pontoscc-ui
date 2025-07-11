@@ -1,0 +1,3 @@
+import{j as r}from"./iframe-CIRVnMV3.js";import{S as t}from"./separator-Bc1xjC-P.js";import"./index-h_FE7HgR.js";import"./index-D-AeSXa4.js";import"./index-Dlr_UOgm.js";import"./utils-CytzSlOG.js";const x={title:"Components/Separator",component:t},m=()=>r.jsx(t,{className:"my-2"}),e={render:()=>r.jsx("div",{className:"p-4",children:r.jsx(m,{})})};var a,s,o;e.parameters={...e.parameters,docs:{...(a=e.parameters)==null?void 0:a.docs,source:{originalSource:`{
+  render: () => <div className="p-4"><Example /></div>
+}`,...(o=(s=e.parameters)==null?void 0:s.docs)==null?void 0:o.source}}};const u=["Default"];export{e as Default,u as __namedExportsOrder,x as default};

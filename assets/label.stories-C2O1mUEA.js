@@ -1,0 +1,3 @@
+import{j as r}from"./iframe-CIRVnMV3.js";import{L as a}from"./label-SwmBbPxF.js";import"./index-h_FE7HgR.js";import"./index-D-AeSXa4.js";import"./index-Dlr_UOgm.js";import"./index-BwobEAja.js";import"./utils-CytzSlOG.js";const u={title:"Components/Label",component:a},m=()=>r.jsx(a,{htmlFor:"x",children:"Label"}),e={render:()=>r.jsx("div",{className:"p-4",children:r.jsx(m,{})})};var o,t,s;e.parameters={...e.parameters,docs:{...(o=e.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  render: () => <div className="p-4"><Example /></div>
+}`,...(s=(t=e.parameters)==null?void 0:t.docs)==null?void 0:s.source}}};const f=["Default"];export{e as Default,f as __namedExportsOrder,u as default};

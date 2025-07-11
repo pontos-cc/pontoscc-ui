@@ -1,0 +1,3 @@
+import{j as r}from"./iframe-CIRVnMV3.js";import{a as m}from"./toggle-DCL8QTvy.js";import"./index-DW48STyt.js";import"./index-BfZZhRAD.js";import"./index-BaryZGho.js";import"./index-h_FE7HgR.js";import"./index-D-AeSXa4.js";import"./index-Dlr_UOgm.js";import"./index-BwobEAja.js";import"./utils-CytzSlOG.js";const j={title:"Components/Toggle",component:m},a=()=>r.jsx(m,{children:"Toggle"}),e={render:()=>r.jsx("div",{className:"p-4",children:r.jsx(a,{})})};var o,t,s;e.parameters={...e.parameters,docs:{...(o=e.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  render: () => <div className="p-4"><Example /></div>
+}`,...(s=(t=e.parameters)==null?void 0:t.docs)==null?void 0:s.source}}};const E=["Default"];export{e as Default,E as __namedExportsOrder,j as default};
